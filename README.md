@@ -1,4 +1,3 @@
-# Prodigy DS 01
 ## South Africa Demographic Projections Dashboard (2023-2027)
 
 <p align="center">
