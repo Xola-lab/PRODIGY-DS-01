@@ -37,7 +37,15 @@ You can view the interactive dashboard [here](https://public.tableau.com/app/pro
 ### Methodology
 
 **Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
+_From this_:
+<p align="center">
+<img src="Screenshot 2024-10-13 034727.png">
+</p>
 
+_To this_:
+<p align="center">
+<img src="Screenshot 2024-10-13 034727.png">
+</p>
 
 **Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
 - Map filter for provinces.
