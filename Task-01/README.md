@@ -8,13 +8,13 @@ This project was created as part of my Data Science Internship with Prodigy Info
 
 Interactive Map of South Africa: Filter by province to explore demographic data on a regional level.
 
-Gender Distribution (Pie Chart): View the gender balance for selected years, offering a snapshot of population distribution.
+- **Gender Distribution (Pie Chart)**: View the gender balance for selected years, offering a snapshot of population distribution.
 
-Age Distribution (Stacked Bar Chart): Track age group distributions for the years 2023-2024.
+- **Age Distribution (Stacked Bar Chart)**: Track age group distributions for the years 2023-2024.
 
-Future Gender Projections (Bar Chart): A bar chart displays projections for gender distribution from 2025 to 2027.
+- **Future Gender Projections (Bar Chart)**: A bar chart displays projections for gender distribution from 2025 to 2027.
 
-Year Selector Button: Toggle between years to dynamically update the total population displayed.
+- **Year Selector Button**: Toggle between years to dynamically update the total population displayed.
 
 
 ## Data Sources & Tools
@@ -30,17 +30,11 @@ Year Selector Button: Toggle between years to dynamically update the total popul
 
 
 2. **Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
-
 - Map filter for provinces.
-
 - Pie chart for gender distribution.
-
 - Stacked and standard bar charts for age and gender distribution.
 
-
-
 3. **Interactivity**: Added year selectors and province filters for an engaging user experience.
-
 
 
 ## Insights & Implications
