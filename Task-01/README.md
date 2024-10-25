@@ -23,7 +23,7 @@ Interactive Map of South Africa: Filter by province to explore demographic data 
 
 ## Data Sources & Tools
 
-**Data Source**: Projection data for South Africa’s age and gender distribution.
+**Data Source**: Projection data for South Africa’s age and gender distribution from statssa.gov.za
 
 **Tools Used**: Tableau for data visualisation and dashboard creation.
 
