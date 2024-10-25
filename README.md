@@ -16,7 +16,7 @@ You can view the interactive dashboard [here](https://public.tableau.com/app/pro
 
 ### Dashboard Features
 
-Interactive Map of South Africa: Filter by province to explore demographic data on a regional level.
+- **Interactive Map of South Africa**: Filter by province to explore demographic data on a regional level.
 
 - **Gender Distribution (Pie Chart)**: View the gender balance for selected years, offering a snapshot of population distribution.
 
