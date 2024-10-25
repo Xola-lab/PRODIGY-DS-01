@@ -45,7 +45,7 @@ _From this_:
 
 _To this_:
 <p align="center">
-<img src="Screenshot 2024-10-13 034727.png">
+<img src="Screenshot 2024-10-12 174255_114513.png">
 </p>
 
 **Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
