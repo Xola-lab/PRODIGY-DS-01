@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-This project was created as part of my Data Science Internship with Prodigy InfoTech. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
+This project was created as part of my Data Science Internship with **Prodigy InfoTech**. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
 
 <p align="center">
 <img src="Screenshot 2024-10-13 034727.png">
