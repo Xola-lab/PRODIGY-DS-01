@@ -31,7 +31,7 @@ You can view the interactive dashboard [here](https://public.tableau.com/app/pro
 
 **Data Source**: Projection data for South Africa’s age and gender distribution from statssa.gov.za
 
-**Tools Used**: Excel for Data Preparation and Cleaning and Tableau for Data Visualisation and Dashboard Creation.
+**Tools Used**: _Excel_ for Data Preparation and Cleaning and _Tableau Public_ for Data Visualisation and Dashboard Creation.
 
 
 ### Methodology
