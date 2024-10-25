@@ -1,4 +1,3 @@
-# This is an Internship Submission at Prodigy InfoTech
 <p align="center">
 <img src="Prodigy.jpg">
 </p>
