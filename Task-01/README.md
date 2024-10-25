@@ -26,15 +26,15 @@ Interactive Map of South Africa: Filter by province to explore demographic data 
 
 ## Methodology
 
-1. **Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
+**Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
 
 
-2. **Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
+**Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
 - Map filter for provinces.
 - Pie chart for gender distribution.
 - Stacked and standard bar charts for age and gender distribution.
 
-3. **Interactivity**: Added year selectors and province filters for an engaging user experience.
+**Interactivity**: Added year selectors and province filters for an engaging user experience.
 
 
 ## Insights & Implications
