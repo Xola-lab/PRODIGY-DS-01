@@ -9,7 +9,7 @@ This repository showcases a collection of data science projects I have undertake
 
 _**Projects Included**_ 🗃️:
 
-1. **_South Africa Demographic Projections Dashboard (2023-2027)_**:
+(Task-01) **_South Africa Demographic Projections Dashboard (2023-2027)_**:
 
 An interactive Tableau dashboard visualising age and gender distributions across provinces and years, providing insights for demographic analysis and planning.
 
