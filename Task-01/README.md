@@ -34,7 +34,7 @@ Interactive Map of South Africa: Filter by province to explore demographic data 
 - Pie chart for gender distribution.
 - Stacked and standard bar charts for age and gender distribution.
 
-**Interactivity**: Added year selectors and province filters for an engaging user experience.
+**Interactivity**: Added a year selector and province filter for an engaging user experience.
 
 
 ## Insights & Implications
