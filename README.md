@@ -53,6 +53,11 @@ _To this_:
 - Pie chart for gender distribution.
 - Stacked and standard bar charts for age and gender distribution.
 
+<p align="center">
+<img src="Screenshot_20241026-003943.jpg">
+</p>
+
+
 **Interactivity**: Added a year selector and province filter for an engaging user experience.
 
 
