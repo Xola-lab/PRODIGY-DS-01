@@ -1,16 +1,17 @@
-# South Africa Demographic Projections Dashboard (2023-2027)
+# Prodigy DS 01
+## South Africa Demographic Projections Dashboard (2023-2027)
 
 <p align="center">
 <img src="Screenshot 2024-10-13 034727.png">
 </p>
 
-## Project Overview
+### Project Overview
 
 This project was created as part of my Data Science Internship with Prodigy InfoTech. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
 
 You can view the interactive dashboard [here](https://public.tableau.com/app/profile/lindi.ikhaya.xola/viz/Book1_17298831935980/Dashboard1)
 
-## Dashboard Features
+### Dashboard Features
 
 Interactive Map of South Africa: Filter by province to explore demographic data on a regional level.
 
@@ -23,14 +24,14 @@ Interactive Map of South Africa: Filter by province to explore demographic data 
 - **Year Selector Button**: Toggle between years to dynamically update the total population displayed.
 
 
-## Data Sources & Tools
+### Data Sources & Tools
 
 **Data Source**: Projection data for South Africa’s age and gender distribution from statssa.gov.za
 
 **Tools Used**: Excel for Data Preparation and Cleaning and Tableau for Data Visualisation and Dashboard Creation.
 
 
-## Methodology
+### Methodology
 
 **Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
 
@@ -43,14 +44,14 @@ Interactive Map of South Africa: Filter by province to explore demographic data 
 **Interactivity**: Added a year selector and province filter for an engaging user experience.
 
 
-## Insights & Implications
+### Insights & Implications
 
 This dashboard enables users to understand demographic shifts over time, which is useful for planning in social, economic, and policy-related areas.
 
 Insights into gender and age distributions can support resource allocation and strategic planning.
 
 
-## How to Use
+### How to Use
 
 1. **Filter by Province**: Use the map to explore demographics for specific regions.
 
