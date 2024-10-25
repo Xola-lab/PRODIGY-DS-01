@@ -8,6 +8,8 @@
 
 This project was created as part of my Data Science Internship with Prodigy InfoTech. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
 
+You can view the interactive dashboard [here](https://public.tableau.com/app/profile/lindi.ikhaya.xola/viz/Book1_17298831935980/Dashboard1)
+
 ## Dashboard Features
 
 Interactive Map of South Africa: Filter by province to explore demographic data on a regional level.
