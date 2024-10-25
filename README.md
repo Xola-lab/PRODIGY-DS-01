@@ -1,25 +1,62 @@
-# Data Science Projects Repository 
+# Prodigy DS 01
+## South Africa Demographic Projections Dashboard (2023-2027)
 
 <p align="center">
-<img src="Prodigy.jpg">
+<img src="Screenshot 2024-10-13 034727.png">
 </p>
 
+### Project Overview
 
-This repository showcases a collection of data science projects I have undertaken during my internship at **Prodigy InfoTech**. Each project highlights my skills in data analysis, visualisation, and interpretation, utilising various tools and methodologies.
+This project was created as part of my Data Science Internship with Prodigy InfoTech. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
 
-_**Projects Included**_ 🗃️:
+You can view the interactive dashboard [here](https://public.tableau.com/app/profile/lindi.ikhaya.xola/viz/Book1_17298831935980/Dashboard1)
 
-(Task-01) **_South Africa Demographic Projections Dashboard (2023-2027)_**:
+### Dashboard Features
 
-An interactive Tableau dashboard visualising age and gender distributions across provinces and years, providing insights for demographic analysis and planning.
+Interactive Map of South Africa: Filter by province to explore demographic data on a regional level.
+
+- **Gender Distribution (Pie Chart)**: View the gender balance for selected years, offering a snapshot of population distribution.
+
+- **Age Distribution (Stacked Bar Chart)**: Track age group distributions for the years 2023-2024.
+
+- **Future Gender Projections (Bar Chart)**: A bar chart displays projections for gender distribution from 2025 to 2027.
+
+- **Year Selector Button**: Toggle between years to dynamically update the total population displayed.
 
 
-_**Technologies Used**_ 🔨:
+### Data Sources & Tools
 
-- Tableau
-- Excel
-- SQL
-- Python
+**Data Source**: Projection data for South Africa’s age and gender distribution from statssa.gov.za
+
+**Tools Used**: Excel for Data Preparation and Cleaning and Tableau for Data Visualisation and Dashboard Creation.
 
 
-This repository serves as a testament to my journey in Data, showcasing my ability to analyse complex datasets and present findings effectively. Feedback is always welcome!
+### Methodology
+
+**Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
+
+
+**Dashboard Design in Tableau**: Organised into sections for easy navigation and detailed insights:
+- Map filter for provinces.
+- Pie chart for gender distribution.
+- Stacked and standard bar charts for age and gender distribution.
+
+**Interactivity**: Added a year selector and province filter for an engaging user experience.
+
+
+### Insights & Implications
+
+This dashboard enables users to understand demographic shifts over time, which is useful for planning in social, economic, and policy-related areas.
+
+Insights into gender and age distributions can support resource allocation and strategic planning.
+
+
+### How to Use
+
+1. **Filter by Province**: Use the map to explore demographics for specific regions.
+
+
+2. **Select Year**: Use the button to view total population and trends per year.
+
+
+3. **Explore Charts**: Analyse age and gender distributions to identify key trends.
