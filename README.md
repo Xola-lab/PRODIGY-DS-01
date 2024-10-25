@@ -3,13 +3,13 @@
 
 This repository showcases a collection of data science projects I have undertaken during my internship at Prodigy InfoTech. Each project highlights my skills in data analysis, visualisation, and interpretation, utilising various tools and methodologies.
 
-Projects Included:
+_**Projects Included**_:
 
 1. South Africa Demographic Projections Dashboard (2023-2027)
 An interactive Tableau dashboard visualising age and gender distributions across provinces and years, providing insights for demographic analysis and planning.
 
 
-Technologies Used:
+_**Technologies Used**_:
 
 - Tableau
 - Excel
