@@ -1,7 +1,7 @@
 # South Africa Demographic Projections Dashboard (2023-2027)
 
 <p align="center">
-<img src="20241006_025152_0000.png">
+<img src="Screenshot 2024-10-13 034727.png">
 </p>
 
 ## Project Overview
