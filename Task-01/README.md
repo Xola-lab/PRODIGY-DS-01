@@ -1,5 +1,9 @@
 # South Africa Demographic Projections Dashboard (2023-2027)
 
+<p align="center">
+<img src="20241006_025152_0000.png">
+</p>
+
 ## Project Overview
 
 This project was created as part of my Data Science Internship with Prodigy InfoTech. The objective was to develop an interactive dashboard that visualises age and gender projections for South Africa from 2023 to 2027, providing valuable demographic insights across regions and years.
