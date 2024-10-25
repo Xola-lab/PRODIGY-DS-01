@@ -37,9 +37,10 @@ You can view the interactive dashboard [here](https://public.tableau.com/app/pro
 ### Methodology
 
 **Data Preparation**: Cleaned and structured data in Excel for demographic analysis.
+
 _From this_:
 <p align="center">
-<img src="Screenshot 2024-10-13 034727.png">
+<img src="Screenshot 2024-10-12 173741_114506.png">
 </p>
 
 _To this_:
