@@ -1,3 +1,8 @@
+# This is an Internship Submission at Prodigy InfoTech
+<p align="center">
+<img src="Prodigy.jpg">
+</p>
+
 ## South Africa Demographic Projections Dashboard (2023-2027)
 
 <p align="center">
